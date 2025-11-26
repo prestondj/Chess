@@ -1,4 +1,6 @@
-abstract class piece{
+import { position } from './position.ts';
+
+export abstract class piece{
     position: position;
     notation: string;
 
