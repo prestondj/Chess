@@ -1,4 +1,4 @@
-class position{
+export class position{
     file: string;
     rank: number;
 

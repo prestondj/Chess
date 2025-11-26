@@ -1,4 +1,7 @@
-class movement{
+import { position } from './position.ts';
+import { piece } from './piece.ts';
+
+export class movement{
     piece: piece;
     position: position;
     captures: position;
