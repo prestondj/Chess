@@ -1,0 +1,1 @@
+Simple chess web implementation. Esc to set the board to its default.
